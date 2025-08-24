@@ -1,0 +1,15 @@
+{
+  "name": "react-e-commerce-backend-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server-auth --watch db.json --port 5005"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "json-server": "^0.17.4",
+    "json-server-auth": "^2.1.0"
+  }
+}
